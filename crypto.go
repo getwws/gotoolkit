@@ -1,4 +1,4 @@
-package gokit
+package gotoolkit
 
 import (
 	"crypto/md5"
